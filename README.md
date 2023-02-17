@@ -19,4 +19,4 @@
 1. front-end development 🎨
 ### 💬 you can reach me:
 1. on discord: `fxiq#4715` 🔵
-1. email: <fxiqval@gmail.com> 
+1. email: <fxiqval@gmail.com> 📧
