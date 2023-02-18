@@ -1,12 +1,1 @@
-title: fxiq
-url: https://fxiq.eu
-
-github:
-  owner_name: fxiq
-  owner_url: https://github.com/fxiqval
-  repository_url: https://github.com/fxiqval/fxiqval
-
 remote_theme: "dracula/gh-pages"
-
-sass:
-    style: compressed
