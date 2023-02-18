@@ -6,6 +6,7 @@
 ### i mainly develop the backend
 ### i also work a lot with the discord api and gateway + i make discord servers work 🔨
 ### i don't post much on github, and many of my repos are privated 🔒
+
 ### 🦋 my interests: 
 1. programming 💻
 1. mangas 📚
