@@ -1,5 +1,5 @@
 # Hello world, I'm fxiq 👋
-<img src="https://cdn.discordapp.com/attachments/1073877866556690535/1076213355334860830/fxiq_anime_boy_with_brown_messy_hair_dark_jacket_blue_eyes_54871776-9009-4021-97ae-2366901d7ff5.png" width="768" alt="banner">
+<img src="https://github.com/fxiqval/fxiqval/raw/main/banner.png" width="768" alt="banner">
 
 I'm a developer from Slovakia 👨&zwj;💻<br />
 I'm a high school student 🏫<br />
