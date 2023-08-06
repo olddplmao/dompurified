@@ -1,1 +1,1 @@
-![](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=F7F7F7&background=FF000000&width=435&lines=hi%2C+i'm+fxiq;i'm+a+software+developer;kt%2C+js%2C+java%2C+go%2C+ts)
+![](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=2000&pause=500&color=FFFFFF&width=435&separator=%3C&lines=me_ptr+%3D+%26fxiq;%3Cfxiq.dev+%3D+true;%3Cfxiq.langs+%3D+C+%7C+CPP+%7C+JS+%7C+KT;%3Cfxiq.age+%3D+(int)(nullptr);)
