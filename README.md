@@ -1,1 +1,1 @@
-![](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=2000&pause=500&color=FFFFFF&width=435&separator=%3C&lines=me_ptr+%3D+%26dompurified;%3Cdompurified.dev+%3D+true;%3Cdompurified.langs+%3D+C+%7C+CPP+%7C+JS+%7C+KT;%3Cdompurified.age+%3D+(int)(nullptr);)
+![](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=2000&pause=500&color=FFFFFF&width=435&separator=%3C&lines=me_ptr+%3D+%26dompurified;%3Cdompurified.dev+%3D+true;%3Cdompurified.langs+%3D+C%7CCPP%7CJS%7CKT;%3Cdompurified.age+%3D+(int)(nullptr);)
